@@ -1,0 +1,20 @@
+Column_Name,Table_Name,Definition
+Shipment_ID,shipments,Unique shipment identifier
+Order_ID,shipments,Linked customer order
+Warehouse_ID,shipments,Origin warehouse
+Carrier_ID,shipments,Transport carrier
+Route_ID,shipments,Origin-destination route
+Shipment_Date,shipments,Dispatch date
+Distance_KM,shipments,Route distance
+Standard_Delivery_Days,shipments,Expected delivery duration
+Actual_Delivery_Days,shipments,Real delivery duration
+Delivery_Delay_Days,shipments,"Actual minus standard delivery, floored at zero"
+On_Time_Flag,shipments,1 when delay is 0.5 day or less
+Budget_Logistics_Cost_INR,shipments,Expected shipment logistics cost
+Actual_Logistics_Cost_INR,shipments,Realized logistics cost
+Cost_Variance_INR,shipments,Actual minus budget
+Cost_Variance_Pct,shipments,Cost variance percentage
+Cost_per_KM_INR,shipments,Actual cost per kilometer
+Delay_Additional_Cost_INR,shipments,Estimated incremental cost associated with delay
+Reliability_Score,carriers,Synthetic carrier reliability indicator
+Monthly_Budget_INR,warehouses,Warehouse monthly budget

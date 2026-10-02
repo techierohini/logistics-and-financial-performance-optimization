@@ -1,0 +1,13 @@
+Warehouse_ID,Warehouse_City,Region,Capacity_Units,Monthly_Budget_INR
+WH001,Mumbai,West,33795,8023669
+WH002,Pune,West,18860,10904852
+WH003,Nagpur,Central,56158,8481505
+WH004,Delhi,North,62732,5266891
+WH005,Ahmedabad,West,29284,8021373
+WH006,Bengaluru,South,24265,9519877
+WH007,Hyderabad,South,34850,6844769
+WH008,Chennai,South,55194,3603355
+WH009,Kolkata,East,39962,4762752
+WH010,Jaipur,North,62131,9164789
+WH011,Indore,Central,34023,9243066
+WH012,Lucknow,North,59090,9613790

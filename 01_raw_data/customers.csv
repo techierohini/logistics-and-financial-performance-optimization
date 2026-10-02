@@ -1,0 +1,1801 @@
+Customer_ID,Customer_Segment,Industry
+CUST00001,Distributor,Electronics
+CUST00002,Enterprise,Manufacturing
+CUST00003,Distributor,Electronics
+CUST00004,Enterprise,FMCG
+CUST00005,Distributor,Automotive
+CUST00006,Enterprise,Healthcare
+CUST00007,Enterprise,Pharma
+CUST00008,Retail,Consumer Goods
+CUST00009,Distributor,Healthcare
+CUST00010,Distributor,Electronics
+CUST00011,Retail,Retail
+CUST00012,Distributor,Healthcare
+CUST00013,Enterprise,Automotive
+CUST00014,Distributor,Electronics
+CUST00015,SME,Pharma
+CUST00016,Retail,FMCG
+CUST00017,Distributor,Automotive
+CUST00018,Retail,Electronics
+CUST00019,SME,Automotive
+CUST00020,SME,Healthcare
+CUST00021,Distributor,Pharma
+CUST00022,SME,FMCG
+CUST00023,Distributor,Electronics
+CUST00024,Retail,Manufacturing
+CUST00025,Enterprise,Consumer Goods
+CUST00026,Retail,FMCG
+CUST00027,SME,Manufacturing
+CUST00028,Retail,Automotive
+CUST00029,Distributor,Retail
+CUST00030,Enterprise,FMCG
+CUST00031,SME,Automotive
+CUST00032,Distributor,Manufacturing
+CUST00033,SME,Healthcare
+CUST00034,Retail,Healthcare
+CUST00035,SME,Retail
+CUST00036,SME,Consumer Goods
+CUST00037,SME,FMCG
+CUST00038,SME,FMCG
+CUST00039,SME,FMCG
+CUST00040,Retail,Consumer Goods
+CUST00041,Enterprise,Automotive
+CUST00042,Enterprise,Pharma
+CUST00043,Enterprise,Pharma
+CUST00044,Enterprise,Retail
+CUST00045,SME,FMCG
+CUST00046,Retail,Automotive
+CUST00047,Distributor,Healthcare
+CUST00048,Enterprise,Manufacturing
+CUST00049,Distributor,Automotive
+CUST00050,Retail,Consumer Goods
+CUST00051,SME,Pharma
+CUST00052,Distributor,Pharma
+CUST00053,Distributor,Healthcare
+CUST00054,SME,Healthcare
+CUST00055,SME,Consumer Goods
+CUST00056,Distributor,Manufacturing
+CUST00057,Retail,Healthcare
+CUST00058,Enterprise,Retail
+CUST00059,Distributor,Manufacturing
+CUST00060,Distributor,Healthcare
+CUST00061,Distributor,Electronics
+CUST00062,Distributor,Automotive
+CUST00063,Distributor,Healthcare
+CUST00064,Enterprise,Retail
+CUST00065,SME,FMCG
+CUST00066,Retail,Healthcare
+CUST00067,Distributor,Pharma
+CUST00068,SME,Pharma
+CUST00069,Retail,Pharma
+CUST00070,Retail,FMCG
+CUST00071,SME,Pharma
+CUST00072,Retail,Electronics
+CUST00073,Distributor,Healthcare
+CUST00074,Retail,Consumer Goods
+CUST00075,SME,Pharma
+CUST00076,SME,Manufacturing
+CUST00077,Retail,Consumer Goods
+CUST00078,SME,FMCG
+CUST00079,SME,Electronics
+CUST00080,SME,Manufacturing
+CUST00081,Enterprise,Manufacturing
+CUST00082,SME,Manufacturing
+CUST00083,SME,Manufacturing
+CUST00084,SME,Consumer Goods
+CUST00085,SME,Consumer Goods
+CUST00086,Retail,Healthcare
+CUST00087,Retail,Pharma
+CUST00088,Enterprise,Automotive
+CUST00089,Distributor,Healthcare
+CUST00090,SME,Healthcare
+CUST00091,Retail,Electronics
+CUST00092,Retail,Electronics
+CUST00093,Distributor,Pharma
+CUST00094,Distributor,Automotive
+CUST00095,Retail,Electronics
+CUST00096,Distributor,Pharma
+CUST00097,Enterprise,Pharma
+CUST00098,SME,Consumer Goods
+CUST00099,Retail,Retail
+CUST00100,SME,Consumer Goods
+CUST00101,Distributor,Automotive
+CUST00102,Enterprise,Electronics
+CUST00103,SME,Automotive
+CUST00104,SME,Healthcare
+CUST00105,SME,Healthcare
+CUST00106,Retail,Automotive
+CUST00107,SME,Retail
+CUST00108,SME,Retail
+CUST00109,SME,Consumer Goods
+CUST00110,SME,Automotive
+CUST00111,Distributor,Electronics
+CUST00112,Enterprise,Consumer Goods
+CUST00113,Retail,FMCG
+CUST00114,Retail,Retail
+CUST00115,Retail,Manufacturing
+CUST00116,Retail,Consumer Goods
+CUST00117,Distributor,Healthcare
+CUST00118,Distributor,Consumer Goods
+CUST00119,SME,Automotive
+CUST00120,SME,Manufacturing
+CUST00121,SME,Automotive
+CUST00122,SME,Pharma
+CUST00123,Retail,Healthcare
+CUST00124,Distributor,Healthcare
+CUST00125,Enterprise,Retail
+CUST00126,Enterprise,Consumer Goods
+CUST00127,SME,Retail
+CUST00128,Retail,Manufacturing
+CUST00129,Retail,Consumer Goods
+CUST00130,Enterprise,Pharma
+CUST00131,Distributor,Automotive
+CUST00132,Distributor,Pharma
+CUST00133,Enterprise,Healthcare
+CUST00134,Retail,Manufacturing
+CUST00135,Distributor,FMCG
+CUST00136,SME,Manufacturing
+CUST00137,Enterprise,Electronics
+CUST00138,Enterprise,Manufacturing
+CUST00139,Enterprise,Pharma
+CUST00140,Distributor,Electronics
+CUST00141,Distributor,Electronics
+CUST00142,Enterprise,Consumer Goods
+CUST00143,SME,Consumer Goods
+CUST00144,Enterprise,Electronics
+CUST00145,Enterprise,FMCG
+CUST00146,Distributor,Consumer Goods
+CUST00147,SME,Manufacturing
+CUST00148,SME,Pharma
+CUST00149,SME,Manufacturing
+CUST00150,Retail,FMCG
+CUST00151,SME,Healthcare
+CUST00152,Retail,Retail
+CUST00153,SME,Pharma
+CUST00154,Distributor,Consumer Goods
+CUST00155,Retail,Pharma
+CUST00156,Enterprise,Manufacturing
+CUST00157,SME,Retail
+CUST00158,Distributor,Automotive
+CUST00159,Distributor,Automotive
+CUST00160,SME,Consumer Goods
+CUST00161,SME,FMCG
+CUST00162,Distributor,Automotive
+CUST00163,Retail,Pharma
+CUST00164,Enterprise,Automotive
+CUST00165,Distributor,Healthcare
+CUST00166,SME,Healthcare
+CUST00167,Retail,Consumer Goods
+CUST00168,Enterprise,Healthcare
+CUST00169,Enterprise,Automotive
+CUST00170,SME,FMCG
+CUST00171,Distributor,Electronics
+CUST00172,SME,Electronics
+CUST00173,SME,Consumer Goods
+CUST00174,SME,Retail
+CUST00175,SME,Electronics
+CUST00176,Distributor,Electronics
+CUST00177,SME,Healthcare
+CUST00178,Retail,Healthcare
+CUST00179,Distributor,Automotive
+CUST00180,SME,Consumer Goods
+CUST00181,Enterprise,Retail
+CUST00182,SME,Consumer Goods
+CUST00183,SME,Manufacturing
+CUST00184,SME,Pharma
+CUST00185,SME,Retail
+CUST00186,Distributor,Retail
+CUST00187,SME,FMCG
+CUST00188,SME,Consumer Goods
+CUST00189,Retail,Automotive
+CUST00190,SME,FMCG
+CUST00191,Distributor,Retail
+CUST00192,Retail,Retail
+CUST00193,SME,Retail
+CUST00194,Retail,Electronics
+CUST00195,SME,Consumer Goods
+CUST00196,SME,Pharma
+CUST00197,SME,Pharma
+CUST00198,SME,FMCG
+CUST00199,Distributor,Retail
+CUST00200,Enterprise,Pharma
+CUST00201,SME,Healthcare
+CUST00202,Enterprise,Consumer Goods
+CUST00203,Distributor,Pharma
+CUST00204,SME,Automotive
+CUST00205,Distributor,Consumer Goods
+CUST00206,SME,Automotive
+CUST00207,Distributor,Pharma
+CUST00208,Distributor,Healthcare
+CUST00209,Distributor,Automotive
+CUST00210,Distributor,Electronics
+CUST00211,SME,Pharma
+CUST00212,Retail,Electronics
+CUST00213,SME,Pharma
+CUST00214,Enterprise,Manufacturing
+CUST00215,SME,Manufacturing
+CUST00216,Retail,Manufacturing
+CUST00217,SME,Automotive
+CUST00218,Retail,Electronics
+CUST00219,Distributor,Electronics
+CUST00220,Retail,Electronics
+CUST00221,Retail,Healthcare
+CUST00222,Distributor,Electronics
+CUST00223,Distributor,Healthcare
+CUST00224,Retail,Manufacturing
+CUST00225,Distributor,Manufacturing
+CUST00226,Distributor,Automotive
+CUST00227,Distributor,Pharma
+CUST00228,Enterprise,Manufacturing
+CUST00229,SME,Pharma
+CUST00230,SME,Pharma
+CUST00231,Enterprise,Consumer Goods
+CUST00232,Retail,Automotive
+CUST00233,Retail,Retail
+CUST00234,Distributor,Retail
+CUST00235,Enterprise,FMCG
+CUST00236,Distributor,Consumer Goods
+CUST00237,Retail,Automotive
+CUST00238,Retail,FMCG
+CUST00239,Distributor,FMCG
+CUST00240,Retail,Consumer Goods
+CUST00241,SME,Retail
+CUST00242,Distributor,Automotive
+CUST00243,SME,Retail
+CUST00244,Enterprise,FMCG
+CUST00245,Distributor,Automotive
+CUST00246,SME,FMCG
+CUST00247,Distributor,Electronics
+CUST00248,SME,Consumer Goods
+CUST00249,Distributor,Pharma
+CUST00250,SME,Automotive
+CUST00251,Distributor,Automotive
+CUST00252,Distributor,Pharma
+CUST00253,Enterprise,FMCG
+CUST00254,Retail,Electronics
+CUST00255,Distributor,Healthcare
+CUST00256,SME,Pharma
+CUST00257,Enterprise,Consumer Goods
+CUST00258,SME,Retail
+CUST00259,SME,FMCG
+CUST00260,Retail,Pharma
+CUST00261,Retail,Pharma
+CUST00262,SME,Automotive
+CUST00263,SME,Retail
+CUST00264,Retail,Retail
+CUST00265,SME,Consumer Goods
+CUST00266,Enterprise,Retail
+CUST00267,Distributor,Pharma
+CUST00268,Retail,Healthcare
+CUST00269,Retail,Manufacturing
+CUST00270,Distributor,FMCG
+CUST00271,SME,Manufacturing
+CUST00272,Distributor,Pharma
+CUST00273,SME,Manufacturing
+CUST00274,Enterprise,Pharma
+CUST00275,SME,Manufacturing
+CUST00276,SME,Retail
+CUST00277,Retail,Electronics
+CUST00278,Enterprise,Retail
+CUST00279,Enterprise,Retail
+CUST00280,SME,Consumer Goods
+CUST00281,SME,Automotive
+CUST00282,Retail,Automotive
+CUST00283,SME,Manufacturing
+CUST00284,Retail,Pharma
+CUST00285,SME,Consumer Goods
+CUST00286,Retail,Retail
+CUST00287,Distributor,Consumer Goods
+CUST00288,SME,Manufacturing
+CUST00289,Distributor,Automotive
+CUST00290,SME,Electronics
+CUST00291,SME,FMCG
+CUST00292,Distributor,Manufacturing
+CUST00293,Enterprise,Consumer Goods
+CUST00294,Enterprise,Electronics
+CUST00295,Distributor,FMCG
+CUST00296,Enterprise,Healthcare
+CUST00297,Distributor,Manufacturing
+CUST00298,SME,Manufacturing
+CUST00299,Distributor,Healthcare
+CUST00300,Retail,Healthcare
+CUST00301,Retail,Manufacturing
+CUST00302,Distributor,Healthcare
+CUST00303,SME,Retail
+CUST00304,Distributor,FMCG
+CUST00305,Enterprise,FMCG
+CUST00306,SME,FMCG
+CUST00307,SME,Retail
+CUST00308,SME,Pharma
+CUST00309,Enterprise,Healthcare
+CUST00310,Distributor,Electronics
+CUST00311,Distributor,Healthcare
+CUST00312,Distributor,Manufacturing
+CUST00313,Enterprise,Automotive
+CUST00314,Retail,Consumer Goods
+CUST00315,SME,Consumer Goods
+CUST00316,SME,FMCG
+CUST00317,SME,Healthcare
+CUST00318,SME,Electronics
+CUST00319,Retail,Manufacturing
+CUST00320,Retail,Retail
+CUST00321,SME,Pharma
+CUST00322,Enterprise,Retail
+CUST00323,Enterprise,Electronics
+CUST00324,Enterprise,Manufacturing
+CUST00325,Distributor,FMCG
+CUST00326,Enterprise,Healthcare
+CUST00327,Enterprise,Manufacturing
+CUST00328,SME,Consumer Goods
+CUST00329,Distributor,Pharma
+CUST00330,Distributor,Retail
+CUST00331,Distributor,Pharma
+CUST00332,Retail,Pharma
+CUST00333,SME,Electronics
+CUST00334,Enterprise,Electronics
+CUST00335,Distributor,Healthcare
+CUST00336,Distributor,Electronics
+CUST00337,Retail,Electronics
+CUST00338,Distributor,Manufacturing
+CUST00339,Retail,Consumer Goods
+CUST00340,Retail,FMCG
+CUST00341,Distributor,Healthcare
+CUST00342,Distributor,Manufacturing
+CUST00343,Retail,FMCG
+CUST00344,Retail,Pharma
+CUST00345,Enterprise,Manufacturing
+CUST00346,Retail,Automotive
+CUST00347,Enterprise,Manufacturing
+CUST00348,Retail,Electronics
+CUST00349,Distributor,FMCG
+CUST00350,Retail,Healthcare
+CUST00351,SME,Healthcare
+CUST00352,SME,FMCG
+CUST00353,Enterprise,Electronics
+CUST00354,Retail,Retail
+CUST00355,Enterprise,Manufacturing
+CUST00356,Enterprise,Electronics
+CUST00357,SME,Automotive
+CUST00358,Distributor,Consumer Goods
+CUST00359,Retail,Pharma
+CUST00360,Enterprise,FMCG
+CUST00361,SME,Consumer Goods
+CUST00362,SME,Manufacturing
+CUST00363,Retail,Healthcare
+CUST00364,Retail,Pharma
+CUST00365,SME,Consumer Goods
+CUST00366,Retail,Retail
+CUST00367,SME,Consumer Goods
+CUST00368,Distributor,Automotive
+CUST00369,SME,Healthcare
+CUST00370,SME,FMCG
+CUST00371,SME,Manufacturing
+CUST00372,Retail,FMCG
+CUST00373,Distributor,Pharma
+CUST00374,SME,Manufacturing
+CUST00375,Retail,Electronics
+CUST00376,Retail,Retail
+CUST00377,SME,Electronics
+CUST00378,SME,Electronics
+CUST00379,Distributor,FMCG
+CUST00380,SME,Pharma
+CUST00381,SME,Retail
+CUST00382,Distributor,Consumer Goods
+CUST00383,Enterprise,Manufacturing
+CUST00384,Enterprise,Manufacturing
+CUST00385,SME,Automotive
+CUST00386,Distributor,Healthcare
+CUST00387,Enterprise,Automotive
+CUST00388,Enterprise,Consumer Goods
+CUST00389,Enterprise,Automotive
+CUST00390,Enterprise,Manufacturing
+CUST00391,Enterprise,FMCG
+CUST00392,SME,Electronics
+CUST00393,Retail,Pharma
+CUST00394,SME,Electronics
+CUST00395,SME,Electronics
+CUST00396,Enterprise,Retail
+CUST00397,SME,Manufacturing
+CUST00398,SME,Consumer Goods
+CUST00399,Retail,Consumer Goods
+CUST00400,Enterprise,Pharma
+CUST00401,SME,FMCG
+CUST00402,SME,Retail
+CUST00403,Distributor,Healthcare
+CUST00404,Retail,FMCG
+CUST00405,Retail,Automotive
+CUST00406,SME,FMCG
+CUST00407,Distributor,FMCG
+CUST00408,Enterprise,Electronics
+CUST00409,Enterprise,FMCG
+CUST00410,SME,Consumer Goods
+CUST00411,Enterprise,Automotive
+CUST00412,Distributor,Automotive
+CUST00413,Distributor,Manufacturing
+CUST00414,SME,FMCG
+CUST00415,Retail,Electronics
+CUST00416,Distributor,FMCG
+CUST00417,Distributor,Healthcare
+CUST00418,Retail,Healthcare
+CUST00419,Distributor,Electronics
+CUST00420,Distributor,Manufacturing
+CUST00421,Retail,Manufacturing
+CUST00422,Enterprise,Automotive
+CUST00423,SME,Automotive
+CUST00424,Distributor,Retail
+CUST00425,SME,Electronics
+CUST00426,Distributor,FMCG
+CUST00427,Enterprise,Pharma
+CUST00428,Enterprise,Electronics
+CUST00429,SME,Retail
+CUST00430,Enterprise,Automotive
+CUST00431,Distributor,Electronics
+CUST00432,Distributor,Electronics
+CUST00433,Distributor,Automotive
+CUST00434,Retail,Consumer Goods
+CUST00435,SME,Retail
+CUST00436,SME,Automotive
+CUST00437,Retail,Manufacturing
+CUST00438,SME,FMCG
+CUST00439,SME,Automotive
+CUST00440,SME,Retail
+CUST00441,SME,Healthcare
+CUST00442,Distributor,Manufacturing
+CUST00443,Distributor,Healthcare
+CUST00444,SME,Pharma
+CUST00445,Retail,Automotive
+CUST00446,Retail,Manufacturing
+CUST00447,Enterprise,FMCG
+CUST00448,Distributor,Automotive
+CUST00449,Distributor,FMCG
+CUST00450,SME,Consumer Goods
+CUST00451,SME,Electronics
+CUST00452,SME,Healthcare
+CUST00453,SME,Manufacturing
+CUST00454,Enterprise,FMCG
+CUST00455,Distributor,Retail
+CUST00456,Enterprise,FMCG
+CUST00457,SME,Retail
+CUST00458,Distributor,Automotive
+CUST00459,Retail,Manufacturing
+CUST00460,SME,FMCG
+CUST00461,SME,Pharma
+CUST00462,Enterprise,FMCG
+CUST00463,Retail,Consumer Goods
+CUST00464,Enterprise,Pharma
+CUST00465,SME,Manufacturing
+CUST00466,Distributor,Consumer Goods
+CUST00467,Enterprise,FMCG
+CUST00468,Distributor,Retail
+CUST00469,Distributor,FMCG
+CUST00470,Enterprise,Healthcare
+CUST00471,Distributor,Automotive
+CUST00472,SME,Electronics
+CUST00473,Distributor,Retail
+CUST00474,Retail,Healthcare
+CUST00475,Retail,Pharma
+CUST00476,SME,Automotive
+CUST00477,Distributor,Manufacturing
+CUST00478,Retail,Retail
+CUST00479,SME,Electronics
+CUST00480,Distributor,Automotive
+CUST00481,SME,Pharma
+CUST00482,Enterprise,Consumer Goods
+CUST00483,Enterprise,Consumer Goods
+CUST00484,SME,Electronics
+CUST00485,SME,Manufacturing
+CUST00486,Distributor,Manufacturing
+CUST00487,Enterprise,Pharma
+CUST00488,Retail,Retail
+CUST00489,Enterprise,Pharma
+CUST00490,Distributor,FMCG
+CUST00491,Distributor,Manufacturing
+CUST00492,SME,Automotive
+CUST00493,Distributor,FMCG
+CUST00494,Enterprise,Consumer Goods
+CUST00495,Distributor,Consumer Goods
+CUST00496,SME,Healthcare
+CUST00497,Distributor,Electronics
+CUST00498,Enterprise,FMCG
+CUST00499,Retail,Electronics
+CUST00500,Distributor,Pharma
+CUST00501,SME,FMCG
+CUST00502,Enterprise,Pharma
+CUST00503,Enterprise,Healthcare
+CUST00504,SME,Manufacturing
+CUST00505,Retail,Consumer Goods
+CUST00506,Enterprise,Healthcare
+CUST00507,SME,Consumer Goods
+CUST00508,Enterprise,Manufacturing
+CUST00509,Distributor,Pharma
+CUST00510,Enterprise,Manufacturing
+CUST00511,SME,Consumer Goods
+CUST00512,Enterprise,Consumer Goods
+CUST00513,SME,Electronics
+CUST00514,Distributor,Automotive
+CUST00515,SME,Healthcare
+CUST00516,Enterprise,FMCG
+CUST00517,Distributor,Consumer Goods
+CUST00518,Distributor,Healthcare
+CUST00519,Enterprise,Electronics
+CUST00520,Distributor,Manufacturing
+CUST00521,Distributor,Electronics
+CUST00522,Enterprise,Retail
+CUST00523,Distributor,Retail
+CUST00524,Retail,FMCG
+CUST00525,SME,Electronics
+CUST00526,Enterprise,Pharma
+CUST00527,Enterprise,FMCG
+CUST00528,Distributor,Pharma
+CUST00529,Distributor,FMCG
+CUST00530,Retail,Retail
+CUST00531,SME,FMCG
+CUST00532,Retail,Retail
+CUST00533,Retail,Consumer Goods
+CUST00534,SME,Manufacturing
+CUST00535,Enterprise,Pharma
+CUST00536,Distributor,Electronics
+CUST00537,SME,Consumer Goods
+CUST00538,Distributor,Consumer Goods
+CUST00539,SME,FMCG
+CUST00540,Enterprise,Retail
+CUST00541,Enterprise,Healthcare
+CUST00542,SME,Pharma
+CUST00543,Distributor,Consumer Goods
+CUST00544,Enterprise,FMCG
+CUST00545,Distributor,Automotive
+CUST00546,SME,Manufacturing
+CUST00547,Distributor,Manufacturing
+CUST00548,SME,Healthcare
+CUST00549,Distributor,Retail
+CUST00550,Distributor,FMCG
+CUST00551,SME,Pharma
+CUST00552,Enterprise,Retail
+CUST00553,Distributor,Manufacturing
+CUST00554,Distributor,Retail
+CUST00555,Enterprise,Manufacturing
+CUST00556,Retail,Retail
+CUST00557,Distributor,Healthcare
+CUST00558,Distributor,Electronics
+CUST00559,Distributor,Healthcare
+CUST00560,Distributor,Healthcare
+CUST00561,SME,Electronics
+CUST00562,SME,Electronics
+CUST00563,SME,Consumer Goods
+CUST00564,Retail,Consumer Goods
+CUST00565,Retail,FMCG
+CUST00566,SME,Pharma
+CUST00567,Distributor,Pharma
+CUST00568,Retail,FMCG
+CUST00569,Retail,Healthcare
+CUST00570,SME,Healthcare
+CUST00571,SME,Manufacturing
+CUST00572,Enterprise,Manufacturing
+CUST00573,SME,Pharma
+CUST00574,Enterprise,FMCG
+CUST00575,Enterprise,Automotive
+CUST00576,SME,Consumer Goods
+CUST00577,SME,Automotive
+CUST00578,Enterprise,FMCG
+CUST00579,Distributor,Manufacturing
+CUST00580,SME,Pharma
+CUST00581,Distributor,Pharma
+CUST00582,Distributor,Manufacturing
+CUST00583,Enterprise,Automotive
+CUST00584,SME,Retail
+CUST00585,Enterprise,Retail
+CUST00586,Retail,Manufacturing
+CUST00587,Retail,Retail
+CUST00588,SME,Electronics
+CUST00589,Retail,FMCG
+CUST00590,SME,FMCG
+CUST00591,Enterprise,Manufacturing
+CUST00592,Retail,Healthcare
+CUST00593,SME,Consumer Goods
+CUST00594,Retail,Automotive
+CUST00595,SME,Manufacturing
+CUST00596,Distributor,Retail
+CUST00597,Enterprise,Automotive
+CUST00598,SME,Healthcare
+CUST00599,Retail,Retail
+CUST00600,SME,Pharma
+CUST00601,Distributor,Consumer Goods
+CUST00602,Retail,Electronics
+CUST00603,Retail,Retail
+CUST00604,Distributor,Electronics
+CUST00605,Distributor,Automotive
+CUST00606,Distributor,Electronics
+CUST00607,Retail,Automotive
+CUST00608,Retail,Automotive
+CUST00609,Enterprise,Automotive
+CUST00610,Enterprise,Automotive
+CUST00611,Retail,Automotive
+CUST00612,Enterprise,Retail
+CUST00613,SME,Automotive
+CUST00614,SME,Retail
+CUST00615,SME,Automotive
+CUST00616,Distributor,Electronics
+CUST00617,Distributor,Pharma
+CUST00618,Enterprise,Automotive
+CUST00619,SME,Healthcare
+CUST00620,Distributor,Automotive
+CUST00621,Enterprise,Automotive
+CUST00622,Distributor,Electronics
+CUST00623,SME,Consumer Goods
+CUST00624,SME,FMCG
+CUST00625,Distributor,Electronics
+CUST00626,SME,Healthcare
+CUST00627,Retail,FMCG
+CUST00628,Distributor,Manufacturing
+CUST00629,Enterprise,Manufacturing
+CUST00630,Retail,Consumer Goods
+CUST00631,Distributor,Healthcare
+CUST00632,Enterprise,Electronics
+CUST00633,Distributor,Retail
+CUST00634,Retail,Healthcare
+CUST00635,Retail,Pharma
+CUST00636,Retail,FMCG
+CUST00637,SME,FMCG
+CUST00638,Distributor,Automotive
+CUST00639,Distributor,Manufacturing
+CUST00640,Retail,Consumer Goods
+CUST00641,Distributor,FMCG
+CUST00642,Retail,Healthcare
+CUST00643,SME,FMCG
+CUST00644,Retail,Consumer Goods
+CUST00645,Retail,Consumer Goods
+CUST00646,Retail,Consumer Goods
+CUST00647,Distributor,Healthcare
+CUST00648,SME,Retail
+CUST00649,Enterprise,Automotive
+CUST00650,Enterprise,Manufacturing
+CUST00651,SME,FMCG
+CUST00652,Retail,Healthcare
+CUST00653,Retail,Electronics
+CUST00654,Retail,Manufacturing
+CUST00655,SME,Retail
+CUST00656,Retail,Healthcare
+CUST00657,SME,Pharma
+CUST00658,SME,Pharma
+CUST00659,Retail,Automotive
+CUST00660,Distributor,Automotive
+CUST00661,SME,Retail
+CUST00662,Enterprise,Retail
+CUST00663,Enterprise,Automotive
+CUST00664,Enterprise,FMCG
+CUST00665,Retail,FMCG
+CUST00666,SME,Healthcare
+CUST00667,SME,Electronics
+CUST00668,SME,Healthcare
+CUST00669,Enterprise,Electronics
+CUST00670,SME,Retail
+CUST00671,SME,Manufacturing
+CUST00672,SME,Healthcare
+CUST00673,SME,Healthcare
+CUST00674,Distributor,Electronics
+CUST00675,Enterprise,Consumer Goods
+CUST00676,Distributor,Retail
+CUST00677,SME,Retail
+CUST00678,Distributor,Pharma
+CUST00679,Retail,Consumer Goods
+CUST00680,Retail,Electronics
+CUST00681,Distributor,Retail
+CUST00682,SME,Consumer Goods
+CUST00683,SME,Automotive
+CUST00684,SME,Consumer Goods
+CUST00685,Retail,FMCG
+CUST00686,Enterprise,Pharma
+CUST00687,SME,Automotive
+CUST00688,Retail,Manufacturing
+CUST00689,Retail,Healthcare
+CUST00690,Distributor,Pharma
+CUST00691,Retail,Manufacturing
+CUST00692,Distributor,Healthcare
+CUST00693,SME,FMCG
+CUST00694,SME,Consumer Goods
+CUST00695,SME,Retail
+CUST00696,SME,Automotive
+CUST00697,Distributor,Electronics
+CUST00698,SME,Automotive
+CUST00699,Distributor,FMCG
+CUST00700,SME,Manufacturing
+CUST00701,Retail,Electronics
+CUST00702,Retail,Retail
+CUST00703,SME,FMCG
+CUST00704,SME,Electronics
+CUST00705,SME,FMCG
+CUST00706,Enterprise,Consumer Goods
+CUST00707,SME,FMCG
+CUST00708,Enterprise,Retail
+CUST00709,SME,Pharma
+CUST00710,Retail,Healthcare
+CUST00711,Retail,Electronics
+CUST00712,Retail,Consumer Goods
+CUST00713,Enterprise,Retail
+CUST00714,Retail,FMCG
+CUST00715,SME,Consumer Goods
+CUST00716,SME,Retail
+CUST00717,Distributor,Pharma
+CUST00718,Enterprise,Consumer Goods
+CUST00719,Retail,Consumer Goods
+CUST00720,Retail,Healthcare
+CUST00721,SME,Automotive
+CUST00722,SME,Electronics
+CUST00723,SME,Healthcare
+CUST00724,Distributor,Manufacturing
+CUST00725,SME,Electronics
+CUST00726,SME,Healthcare
+CUST00727,SME,FMCG
+CUST00728,Retail,Electronics
+CUST00729,Enterprise,Electronics
+CUST00730,SME,Retail
+CUST00731,Retail,FMCG
+CUST00732,Distributor,Manufacturing
+CUST00733,SME,Automotive
+CUST00734,SME,Consumer Goods
+CUST00735,SME,Pharma
+CUST00736,Retail,Healthcare
+CUST00737,SME,Retail
+CUST00738,SME,Healthcare
+CUST00739,Distributor,Manufacturing
+CUST00740,Retail,Consumer Goods
+CUST00741,SME,Manufacturing
+CUST00742,Distributor,Electronics
+CUST00743,Retail,Pharma
+CUST00744,SME,Manufacturing
+CUST00745,Enterprise,Healthcare
+CUST00746,Distributor,FMCG
+CUST00747,Enterprise,FMCG
+CUST00748,SME,Electronics
+CUST00749,Enterprise,Automotive
+CUST00750,Retail,Healthcare
+CUST00751,SME,Healthcare
+CUST00752,Enterprise,Manufacturing
+CUST00753,Enterprise,Pharma
+CUST00754,Enterprise,Healthcare
+CUST00755,Retail,Retail
+CUST00756,Retail,Automotive
+CUST00757,SME,Manufacturing
+CUST00758,SME,Retail
+CUST00759,Retail,Electronics
+CUST00760,Enterprise,FMCG
+CUST00761,SME,Electronics
+CUST00762,Distributor,FMCG
+CUST00763,Retail,Electronics
+CUST00764,SME,Healthcare
+CUST00765,SME,Retail
+CUST00766,SME,FMCG
+CUST00767,SME,Manufacturing
+CUST00768,Enterprise,Retail
+CUST00769,Enterprise,Manufacturing
+CUST00770,Enterprise,Retail
+CUST00771,Distributor,Retail
+CUST00772,Retail,Electronics
+CUST00773,Enterprise,FMCG
+CUST00774,Enterprise,FMCG
+CUST00775,Retail,Pharma
+CUST00776,Enterprise,Retail
+CUST00777,SME,Healthcare
+CUST00778,Distributor,Healthcare
+CUST00779,SME,Manufacturing
+CUST00780,Retail,Manufacturing
+CUST00781,Distributor,Electronics
+CUST00782,SME,Retail
+CUST00783,Enterprise,Manufacturing
+CUST00784,SME,Manufacturing
+CUST00785,Distributor,Automotive
+CUST00786,Distributor,Retail
+CUST00787,Distributor,Consumer Goods
+CUST00788,Enterprise,Electronics
+CUST00789,Distributor,Manufacturing
+CUST00790,Distributor,Electronics
+CUST00791,Retail,FMCG
+CUST00792,Distributor,Electronics
+CUST00793,Distributor,Consumer Goods
+CUST00794,Retail,Healthcare
+CUST00795,Retail,Consumer Goods
+CUST00796,SME,Healthcare
+CUST00797,Enterprise,Electronics
+CUST00798,Retail,Healthcare
+CUST00799,SME,FMCG
+CUST00800,Distributor,Retail
+CUST00801,Distributor,Healthcare
+CUST00802,Distributor,Healthcare
+CUST00803,Enterprise,Electronics
+CUST00804,SME,FMCG
+CUST00805,Enterprise,Pharma
+CUST00806,Retail,Pharma
+CUST00807,Distributor,Pharma
+CUST00808,Distributor,Pharma
+CUST00809,SME,Retail
+CUST00810,Distributor,Consumer Goods
+CUST00811,Distributor,Electronics
+CUST00812,SME,Electronics
+CUST00813,Distributor,Automotive
+CUST00814,SME,FMCG
+CUST00815,SME,Pharma
+CUST00816,Retail,Retail
+CUST00817,SME,FMCG
+CUST00818,Retail,Pharma
+CUST00819,Retail,Retail
+CUST00820,Retail,FMCG
+CUST00821,SME,Electronics
+CUST00822,SME,Electronics
+CUST00823,Retail,Consumer Goods
+CUST00824,SME,Manufacturing
+CUST00825,SME,Consumer Goods
+CUST00826,Enterprise,Healthcare
+CUST00827,Retail,Consumer Goods
+CUST00828,Enterprise,Pharma
+CUST00829,Retail,Automotive
+CUST00830,Distributor,FMCG
+CUST00831,SME,Automotive
+CUST00832,SME,Manufacturing
+CUST00833,Distributor,Healthcare
+CUST00834,Distributor,FMCG
+CUST00835,Distributor,Retail
+CUST00836,Distributor,Pharma
+CUST00837,Enterprise,Healthcare
+CUST00838,Enterprise,Electronics
+CUST00839,SME,Manufacturing
+CUST00840,SME,Healthcare
+CUST00841,SME,Pharma
+CUST00842,SME,Consumer Goods
+CUST00843,SME,Healthcare
+CUST00844,Retail,Consumer Goods
+CUST00845,Retail,Pharma
+CUST00846,SME,Electronics
+CUST00847,Distributor,FMCG
+CUST00848,SME,Retail
+CUST00849,Distributor,Electronics
+CUST00850,Enterprise,Consumer Goods
+CUST00851,Distributor,Consumer Goods
+CUST00852,Retail,Retail
+CUST00853,SME,FMCG
+CUST00854,Enterprise,Healthcare
+CUST00855,SME,Retail
+CUST00856,Enterprise,Manufacturing
+CUST00857,Enterprise,Manufacturing
+CUST00858,Retail,Pharma
+CUST00859,SME,Electronics
+CUST00860,Retail,Consumer Goods
+CUST00861,Distributor,FMCG
+CUST00862,SME,Pharma
+CUST00863,Retail,Electronics
+CUST00864,Enterprise,Electronics
+CUST00865,Retail,Pharma
+CUST00866,SME,Automotive
+CUST00867,Distributor,Electronics
+CUST00868,Distributor,Automotive
+CUST00869,SME,Manufacturing
+CUST00870,Enterprise,Manufacturing
+CUST00871,Distributor,Electronics
+CUST00872,Distributor,Manufacturing
+CUST00873,Enterprise,FMCG
+CUST00874,SME,Automotive
+CUST00875,Distributor,Automotive
+CUST00876,Enterprise,Electronics
+CUST00877,Distributor,Manufacturing
+CUST00878,SME,Retail
+CUST00879,Enterprise,Consumer Goods
+CUST00880,Distributor,Pharma
+CUST00881,SME,Pharma
+CUST00882,SME,Automotive
+CUST00883,Enterprise,Electronics
+CUST00884,Enterprise,Electronics
+CUST00885,Retail,FMCG
+CUST00886,SME,Healthcare
+CUST00887,Retail,Consumer Goods
+CUST00888,Distributor,Healthcare
+CUST00889,Retail,Automotive
+CUST00890,Enterprise,Pharma
+CUST00891,SME,FMCG
+CUST00892,Distributor,FMCG
+CUST00893,Distributor,FMCG
+CUST00894,Retail,Automotive
+CUST00895,SME,Healthcare
+CUST00896,SME,Pharma
+CUST00897,Retail,FMCG
+CUST00898,Distributor,Pharma
+CUST00899,Retail,Manufacturing
+CUST00900,Distributor,Electronics
+CUST00901,Distributor,Electronics
+CUST00902,Enterprise,Pharma
+CUST00903,SME,Retail
+CUST00904,Enterprise,Retail
+CUST00905,SME,Automotive
+CUST00906,Distributor,Automotive
+CUST00907,SME,Electronics
+CUST00908,SME,Manufacturing
+CUST00909,Enterprise,Consumer Goods
+CUST00910,SME,Healthcare
+CUST00911,SME,Healthcare
+CUST00912,SME,Automotive
+CUST00913,Retail,Manufacturing
+CUST00914,SME,Automotive
+CUST00915,Retail,Consumer Goods
+CUST00916,Enterprise,Healthcare
+CUST00917,Enterprise,Pharma
+CUST00918,SME,Automotive
+CUST00919,Retail,FMCG
+CUST00920,Retail,Pharma
+CUST00921,SME,Consumer Goods
+CUST00922,SME,Consumer Goods
+CUST00923,Retail,Automotive
+CUST00924,Enterprise,Electronics
+CUST00925,SME,Automotive
+CUST00926,Distributor,Electronics
+CUST00927,Retail,Consumer Goods
+CUST00928,SME,Manufacturing
+CUST00929,Distributor,Consumer Goods
+CUST00930,Distributor,Healthcare
+CUST00931,SME,Pharma
+CUST00932,Retail,Pharma
+CUST00933,Retail,Retail
+CUST00934,SME,Retail
+CUST00935,SME,Consumer Goods
+CUST00936,SME,Healthcare
+CUST00937,Retail,Retail
+CUST00938,SME,Pharma
+CUST00939,Distributor,Automotive
+CUST00940,Retail,Manufacturing
+CUST00941,Enterprise,Manufacturing
+CUST00942,Retail,Healthcare
+CUST00943,SME,Consumer Goods
+CUST00944,Retail,Retail
+CUST00945,Retail,Automotive
+CUST00946,SME,Manufacturing
+CUST00947,SME,Manufacturing
+CUST00948,Enterprise,FMCG
+CUST00949,Enterprise,Consumer Goods
+CUST00950,SME,FMCG
+CUST00951,SME,Pharma
+CUST00952,Distributor,Manufacturing
+CUST00953,SME,Healthcare
+CUST00954,SME,Electronics
+CUST00955,Retail,Electronics
+CUST00956,Enterprise,Automotive
+CUST00957,Distributor,Manufacturing
+CUST00958,Retail,Manufacturing
+CUST00959,Distributor,Pharma
+CUST00960,Enterprise,Manufacturing
+CUST00961,SME,Healthcare
+CUST00962,SME,FMCG
+CUST00963,Distributor,Manufacturing
+CUST00964,Enterprise,Manufacturing
+CUST00965,SME,Pharma
+CUST00966,Distributor,Consumer Goods
+CUST00967,SME,Retail
+CUST00968,SME,Consumer Goods
+CUST00969,Enterprise,Pharma
+CUST00970,Distributor,Consumer Goods
+CUST00971,Enterprise,Pharma
+CUST00972,Retail,Healthcare
+CUST00973,Distributor,Automotive
+CUST00974,SME,Manufacturing
+CUST00975,Retail,Pharma
+CUST00976,Enterprise,Pharma
+CUST00977,SME,Retail
+CUST00978,Distributor,Pharma
+CUST00979,Distributor,Electronics
+CUST00980,Retail,Automotive
+CUST00981,SME,Manufacturing
+CUST00982,Enterprise,Manufacturing
+CUST00983,Enterprise,Retail
+CUST00984,Enterprise,Healthcare
+CUST00985,SME,Manufacturing
+CUST00986,SME,Electronics
+CUST00987,SME,Manufacturing
+CUST00988,SME,Electronics
+CUST00989,SME,Automotive
+CUST00990,SME,Automotive
+CUST00991,Distributor,FMCG
+CUST00992,SME,FMCG
+CUST00993,Distributor,Electronics
+CUST00994,Distributor,Healthcare
+CUST00995,Enterprise,Manufacturing
+CUST00996,Distributor,Pharma
+CUST00997,Retail,Manufacturing
+CUST00998,Retail,FMCG
+CUST00999,SME,Consumer Goods
+CUST01000,SME,Pharma
+CUST01001,SME,Electronics
+CUST01002,SME,Pharma
+CUST01003,Retail,Consumer Goods
+CUST01004,Retail,Manufacturing
+CUST01005,SME,Manufacturing
+CUST01006,Retail,Healthcare
+CUST01007,Enterprise,Retail
+CUST01008,SME,Pharma
+CUST01009,Distributor,FMCG
+CUST01010,SME,Consumer Goods
+CUST01011,Enterprise,Consumer Goods
+CUST01012,Enterprise,Consumer Goods
+CUST01013,SME,FMCG
+CUST01014,Distributor,Retail
+CUST01015,Retail,Manufacturing
+CUST01016,Distributor,Healthcare
+CUST01017,Retail,Healthcare
+CUST01018,SME,FMCG
+CUST01019,SME,Healthcare
+CUST01020,Retail,Consumer Goods
+CUST01021,Enterprise,Automotive
+CUST01022,Distributor,Retail
+CUST01023,Distributor,Manufacturing
+CUST01024,SME,Automotive
+CUST01025,Distributor,Retail
+CUST01026,Distributor,Electronics
+CUST01027,Retail,Pharma
+CUST01028,Enterprise,FMCG
+CUST01029,SME,Consumer Goods
+CUST01030,SME,Healthcare
+CUST01031,SME,Electronics
+CUST01032,Enterprise,Healthcare
+CUST01033,Distributor,Automotive
+CUST01034,Enterprise,Manufacturing
+CUST01035,Retail,Manufacturing
+CUST01036,Distributor,Manufacturing
+CUST01037,Distributor,Consumer Goods
+CUST01038,SME,Healthcare
+CUST01039,Distributor,Electronics
+CUST01040,Enterprise,Manufacturing
+CUST01041,Enterprise,Electronics
+CUST01042,Retail,Healthcare
+CUST01043,SME,Consumer Goods
+CUST01044,SME,Automotive
+CUST01045,Retail,Consumer Goods
+CUST01046,Enterprise,Electronics
+CUST01047,SME,Consumer Goods
+CUST01048,SME,Consumer Goods
+CUST01049,Distributor,Automotive
+CUST01050,Retail,Healthcare
+CUST01051,SME,Healthcare
+CUST01052,SME,FMCG
+CUST01053,Enterprise,Consumer Goods
+CUST01054,Enterprise,Healthcare
+CUST01055,Distributor,Healthcare
+CUST01056,SME,Retail
+CUST01057,Enterprise,Manufacturing
+CUST01058,Retail,FMCG
+CUST01059,Retail,Pharma
+CUST01060,Retail,FMCG
+CUST01061,SME,FMCG
+CUST01062,SME,Pharma
+CUST01063,SME,Retail
+CUST01064,Enterprise,Consumer Goods
+CUST01065,Retail,Automotive
+CUST01066,Distributor,Healthcare
+CUST01067,Retail,Manufacturing
+CUST01068,Distributor,Electronics
+CUST01069,SME,Consumer Goods
+CUST01070,Retail,Pharma
+CUST01071,SME,Automotive
+CUST01072,SME,Consumer Goods
+CUST01073,SME,Pharma
+CUST01074,Enterprise,Healthcare
+CUST01075,SME,Retail
+CUST01076,Distributor,Consumer Goods
+CUST01077,SME,Pharma
+CUST01078,Enterprise,Healthcare
+CUST01079,SME,Healthcare
+CUST01080,Distributor,Retail
+CUST01081,Retail,FMCG
+CUST01082,Retail,Consumer Goods
+CUST01083,Enterprise,Consumer Goods
+CUST01084,Retail,FMCG
+CUST01085,SME,Manufacturing
+CUST01086,Distributor,Manufacturing
+CUST01087,Retail,FMCG
+CUST01088,Enterprise,Automotive
+CUST01089,Enterprise,Electronics
+CUST01090,Enterprise,Healthcare
+CUST01091,SME,Electronics
+CUST01092,SME,Healthcare
+CUST01093,Retail,FMCG
+CUST01094,SME,Manufacturing
+CUST01095,SME,Automotive
+CUST01096,Enterprise,Manufacturing
+CUST01097,Enterprise,Electronics
+CUST01098,Distributor,Manufacturing
+CUST01099,SME,FMCG
+CUST01100,Retail,Automotive
+CUST01101,Distributor,Electronics
+CUST01102,Retail,Automotive
+CUST01103,Distributor,Consumer Goods
+CUST01104,SME,Healthcare
+CUST01105,Distributor,Manufacturing
+CUST01106,Enterprise,Automotive
+CUST01107,Enterprise,Retail
+CUST01108,Retail,Consumer Goods
+CUST01109,Distributor,Manufacturing
+CUST01110,Distributor,Healthcare
+CUST01111,Enterprise,Automotive
+CUST01112,SME,Electronics
+CUST01113,Distributor,Healthcare
+CUST01114,SME,Retail
+CUST01115,Distributor,Automotive
+CUST01116,Distributor,Pharma
+CUST01117,SME,Pharma
+CUST01118,SME,FMCG
+CUST01119,SME,Manufacturing
+CUST01120,SME,Electronics
+CUST01121,Distributor,FMCG
+CUST01122,SME,Automotive
+CUST01123,Distributor,Pharma
+CUST01124,Enterprise,Pharma
+CUST01125,Distributor,Pharma
+CUST01126,SME,Automotive
+CUST01127,Enterprise,Pharma
+CUST01128,Enterprise,Healthcare
+CUST01129,Retail,Consumer Goods
+CUST01130,Retail,Automotive
+CUST01131,Distributor,Electronics
+CUST01132,Enterprise,Consumer Goods
+CUST01133,Enterprise,FMCG
+CUST01134,SME,Electronics
+CUST01135,SME,Consumer Goods
+CUST01136,SME,Retail
+CUST01137,Distributor,Pharma
+CUST01138,Distributor,Retail
+CUST01139,Distributor,Manufacturing
+CUST01140,Distributor,Manufacturing
+CUST01141,SME,Consumer Goods
+CUST01142,SME,Retail
+CUST01143,SME,Automotive
+CUST01144,Distributor,Electronics
+CUST01145,Enterprise,Retail
+CUST01146,SME,Manufacturing
+CUST01147,Enterprise,Retail
+CUST01148,SME,Automotive
+CUST01149,Distributor,Retail
+CUST01150,Distributor,Electronics
+CUST01151,SME,FMCG
+CUST01152,Distributor,Automotive
+CUST01153,Retail,Manufacturing
+CUST01154,Enterprise,Electronics
+CUST01155,SME,Retail
+CUST01156,SME,Retail
+CUST01157,Enterprise,FMCG
+CUST01158,Distributor,Manufacturing
+CUST01159,SME,Manufacturing
+CUST01160,Distributor,Healthcare
+CUST01161,SME,Manufacturing
+CUST01162,Enterprise,FMCG
+CUST01163,SME,Pharma
+CUST01164,Enterprise,Healthcare
+CUST01165,SME,Healthcare
+CUST01166,Distributor,Retail
+CUST01167,SME,Retail
+CUST01168,Retail,Manufacturing
+CUST01169,Enterprise,Healthcare
+CUST01170,Enterprise,Consumer Goods
+CUST01171,Enterprise,Retail
+CUST01172,Retail,FMCG
+CUST01173,Enterprise,Consumer Goods
+CUST01174,SME,Retail
+CUST01175,Retail,Automotive
+CUST01176,SME,Automotive
+CUST01177,Enterprise,Retail
+CUST01178,SME,Healthcare
+CUST01179,Distributor,Pharma
+CUST01180,Retail,Pharma
+CUST01181,SME,Healthcare
+CUST01182,Enterprise,Electronics
+CUST01183,Distributor,Pharma
+CUST01184,Retail,Automotive
+CUST01185,SME,FMCG
+CUST01186,Distributor,Healthcare
+CUST01187,SME,Manufacturing
+CUST01188,SME,Automotive
+CUST01189,Retail,FMCG
+CUST01190,SME,FMCG
+CUST01191,Distributor,Healthcare
+CUST01192,Retail,FMCG
+CUST01193,Retail,Healthcare
+CUST01194,Enterprise,Pharma
+CUST01195,Enterprise,Retail
+CUST01196,SME,Automotive
+CUST01197,Distributor,Electronics
+CUST01198,SME,Retail
+CUST01199,SME,Automotive
+CUST01200,Retail,Healthcare
+CUST01201,Enterprise,Automotive
+CUST01202,Retail,Pharma
+CUST01203,Enterprise,Healthcare
+CUST01204,Distributor,Retail
+CUST01205,SME,Manufacturing
+CUST01206,Enterprise,Manufacturing
+CUST01207,SME,Consumer Goods
+CUST01208,SME,Consumer Goods
+CUST01209,Distributor,Automotive
+CUST01210,Retail,Manufacturing
+CUST01211,Retail,Healthcare
+CUST01212,Enterprise,FMCG
+CUST01213,Enterprise,Healthcare
+CUST01214,Enterprise,FMCG
+CUST01215,Retail,Retail
+CUST01216,Distributor,Electronics
+CUST01217,SME,FMCG
+CUST01218,Enterprise,Manufacturing
+CUST01219,Retail,Healthcare
+CUST01220,Distributor,Retail
+CUST01221,Retail,Manufacturing
+CUST01222,Distributor,Retail
+CUST01223,SME,Electronics
+CUST01224,Enterprise,Pharma
+CUST01225,Distributor,Healthcare
+CUST01226,Retail,Automotive
+CUST01227,SME,Healthcare
+CUST01228,Retail,Consumer Goods
+CUST01229,Distributor,Electronics
+CUST01230,Retail,Healthcare
+CUST01231,Retail,Consumer Goods
+CUST01232,SME,Automotive
+CUST01233,SME,FMCG
+CUST01234,SME,Retail
+CUST01235,Distributor,Automotive
+CUST01236,Distributor,Manufacturing
+CUST01237,Distributor,Electronics
+CUST01238,Enterprise,FMCG
+CUST01239,Retail,Manufacturing
+CUST01240,Distributor,Manufacturing
+CUST01241,Retail,Electronics
+CUST01242,Distributor,FMCG
+CUST01243,Distributor,Pharma
+CUST01244,SME,Manufacturing
+CUST01245,SME,Manufacturing
+CUST01246,Enterprise,FMCG
+CUST01247,SME,Healthcare
+CUST01248,Retail,Manufacturing
+CUST01249,Distributor,Retail
+CUST01250,SME,FMCG
+CUST01251,Enterprise,Manufacturing
+CUST01252,Retail,Electronics
+CUST01253,Enterprise,Automotive
+CUST01254,Enterprise,Retail
+CUST01255,Enterprise,Consumer Goods
+CUST01256,Enterprise,Consumer Goods
+CUST01257,Enterprise,Automotive
+CUST01258,SME,Consumer Goods
+CUST01259,SME,Automotive
+CUST01260,Distributor,Manufacturing
+CUST01261,SME,Retail
+CUST01262,Retail,Retail
+CUST01263,Enterprise,Healthcare
+CUST01264,SME,Automotive
+CUST01265,Retail,Retail
+CUST01266,Enterprise,Healthcare
+CUST01267,SME,FMCG
+CUST01268,Retail,Healthcare
+CUST01269,Retail,Electronics
+CUST01270,Enterprise,Pharma
+CUST01271,SME,Manufacturing
+CUST01272,Retail,FMCG
+CUST01273,Enterprise,Pharma
+CUST01274,Retail,Pharma
+CUST01275,Retail,FMCG
+CUST01276,Distributor,Electronics
+CUST01277,SME,Healthcare
+CUST01278,Distributor,Manufacturing
+CUST01279,SME,Healthcare
+CUST01280,SME,Retail
+CUST01281,Enterprise,Healthcare
+CUST01282,Retail,Consumer Goods
+CUST01283,SME,FMCG
+CUST01284,SME,Manufacturing
+CUST01285,Enterprise,Healthcare
+CUST01286,Distributor,Manufacturing
+CUST01287,Distributor,Manufacturing
+CUST01288,Retail,Retail
+CUST01289,SME,Retail
+CUST01290,Enterprise,FMCG
+CUST01291,Retail,Electronics
+CUST01292,SME,Consumer Goods
+CUST01293,Enterprise,Pharma
+CUST01294,Retail,Manufacturing
+CUST01295,Distributor,Electronics
+CUST01296,Retail,Pharma
+CUST01297,Retail,Pharma
+CUST01298,Distributor,Consumer Goods
+CUST01299,SME,FMCG
+CUST01300,Retail,Pharma
+CUST01301,Distributor,Consumer Goods
+CUST01302,Enterprise,Pharma
+CUST01303,Retail,Manufacturing
+CUST01304,Retail,Manufacturing
+CUST01305,Retail,Automotive
+CUST01306,Retail,Electronics
+CUST01307,Distributor,Healthcare
+CUST01308,Distributor,Consumer Goods
+CUST01309,Enterprise,Retail
+CUST01310,Distributor,Consumer Goods
+CUST01311,SME,Healthcare
+CUST01312,SME,Electronics
+CUST01313,SME,Retail
+CUST01314,SME,Healthcare
+CUST01315,SME,Automotive
+CUST01316,Distributor,Retail
+CUST01317,Retail,Manufacturing
+CUST01318,Retail,Healthcare
+CUST01319,Enterprise,Consumer Goods
+CUST01320,Distributor,Retail
+CUST01321,Distributor,Automotive
+CUST01322,Distributor,Consumer Goods
+CUST01323,Enterprise,Pharma
+CUST01324,Enterprise,Retail
+CUST01325,SME,Retail
+CUST01326,Enterprise,Automotive
+CUST01327,SME,Pharma
+CUST01328,Distributor,Healthcare
+CUST01329,SME,FMCG
+CUST01330,Enterprise,Healthcare
+CUST01331,SME,Pharma
+CUST01332,Enterprise,Electronics
+CUST01333,Enterprise,Consumer Goods
+CUST01334,SME,Automotive
+CUST01335,SME,Healthcare
+CUST01336,Distributor,Retail
+CUST01337,Distributor,Automotive
+CUST01338,SME,Manufacturing
+CUST01339,SME,Pharma
+CUST01340,Distributor,Consumer Goods
+CUST01341,SME,Healthcare
+CUST01342,Enterprise,Automotive
+CUST01343,Distributor,Consumer Goods
+CUST01344,Enterprise,Healthcare
+CUST01345,Retail,Automotive
+CUST01346,Retail,Retail
+CUST01347,SME,Manufacturing
+CUST01348,SME,Manufacturing
+CUST01349,Distributor,Electronics
+CUST01350,Enterprise,Automotive
+CUST01351,SME,Healthcare
+CUST01352,Retail,Manufacturing
+CUST01353,SME,Pharma
+CUST01354,Enterprise,Manufacturing
+CUST01355,Distributor,FMCG
+CUST01356,SME,FMCG
+CUST01357,Distributor,Manufacturing
+CUST01358,Distributor,Automotive
+CUST01359,Retail,Electronics
+CUST01360,SME,Manufacturing
+CUST01361,Distributor,Retail
+CUST01362,Enterprise,Consumer Goods
+CUST01363,Retail,Healthcare
+CUST01364,Enterprise,Electronics
+CUST01365,SME,Retail
+CUST01366,SME,Electronics
+CUST01367,Distributor,Retail
+CUST01368,Distributor,Healthcare
+CUST01369,Enterprise,Healthcare
+CUST01370,Enterprise,FMCG
+CUST01371,Retail,Automotive
+CUST01372,SME,Retail
+CUST01373,Enterprise,Consumer Goods
+CUST01374,Retail,FMCG
+CUST01375,SME,Retail
+CUST01376,Distributor,FMCG
+CUST01377,SME,Healthcare
+CUST01378,SME,Electronics
+CUST01379,SME,Pharma
+CUST01380,Distributor,FMCG
+CUST01381,SME,Retail
+CUST01382,Retail,Retail
+CUST01383,SME,Pharma
+CUST01384,Distributor,Automotive
+CUST01385,SME,Consumer Goods
+CUST01386,Enterprise,Healthcare
+CUST01387,Retail,Retail
+CUST01388,SME,Manufacturing
+CUST01389,Enterprise,Electronics
+CUST01390,Distributor,FMCG
+CUST01391,SME,Automotive
+CUST01392,Retail,Consumer Goods
+CUST01393,SME,Pharma
+CUST01394,Distributor,Electronics
+CUST01395,Enterprise,Healthcare
+CUST01396,SME,Automotive
+CUST01397,Distributor,Consumer Goods
+CUST01398,Distributor,FMCG
+CUST01399,SME,FMCG
+CUST01400,SME,Pharma
+CUST01401,Distributor,Manufacturing
+CUST01402,SME,Pharma
+CUST01403,Distributor,Healthcare
+CUST01404,Distributor,Automotive
+CUST01405,Enterprise,Automotive
+CUST01406,Enterprise,Retail
+CUST01407,Retail,Manufacturing
+CUST01408,Enterprise,Manufacturing
+CUST01409,SME,Automotive
+CUST01410,Distributor,Automotive
+CUST01411,Retail,Electronics
+CUST01412,Distributor,Consumer Goods
+CUST01413,Retail,Electronics
+CUST01414,Retail,Electronics
+CUST01415,Enterprise,Manufacturing
+CUST01416,SME,Retail
+CUST01417,SME,FMCG
+CUST01418,SME,Electronics
+CUST01419,Distributor,Retail
+CUST01420,SME,Pharma
+CUST01421,SME,Healthcare
+CUST01422,SME,Electronics
+CUST01423,Enterprise,Pharma
+CUST01424,SME,FMCG
+CUST01425,Enterprise,Healthcare
+CUST01426,Enterprise,Healthcare
+CUST01427,Enterprise,FMCG
+CUST01428,SME,Electronics
+CUST01429,Distributor,Manufacturing
+CUST01430,SME,FMCG
+CUST01431,SME,FMCG
+CUST01432,Retail,FMCG
+CUST01433,Enterprise,Healthcare
+CUST01434,Distributor,Consumer Goods
+CUST01435,SME,Retail
+CUST01436,SME,Pharma
+CUST01437,Retail,Manufacturing
+CUST01438,Enterprise,Electronics
+CUST01439,Retail,Electronics
+CUST01440,SME,Pharma
+CUST01441,Distributor,Retail
+CUST01442,Enterprise,FMCG
+CUST01443,SME,Consumer Goods
+CUST01444,Retail,Manufacturing
+CUST01445,Enterprise,Electronics
+CUST01446,SME,Pharma
+CUST01447,Retail,Automotive
+CUST01448,Distributor,Consumer Goods
+CUST01449,SME,Pharma
+CUST01450,Distributor,Consumer Goods
+CUST01451,Distributor,Electronics
+CUST01452,Distributor,FMCG
+CUST01453,Enterprise,Automotive
+CUST01454,Retail,Retail
+CUST01455,SME,Manufacturing
+CUST01456,Distributor,Retail
+CUST01457,SME,Retail
+CUST01458,Enterprise,Pharma
+CUST01459,Retail,Consumer Goods
+CUST01460,SME,Manufacturing
+CUST01461,Distributor,Manufacturing
+CUST01462,Distributor,Electronics
+CUST01463,Retail,Electronics
+CUST01464,Enterprise,Manufacturing
+CUST01465,Retail,Automotive
+CUST01466,Enterprise,Healthcare
+CUST01467,Enterprise,Electronics
+CUST01468,Distributor,Healthcare
+CUST01469,SME,Pharma
+CUST01470,SME,Automotive
+CUST01471,Distributor,Manufacturing
+CUST01472,SME,Automotive
+CUST01473,SME,Electronics
+CUST01474,Distributor,Retail
+CUST01475,Enterprise,Pharma
+CUST01476,Distributor,Manufacturing
+CUST01477,Distributor,FMCG
+CUST01478,Distributor,Pharma
+CUST01479,Retail,Consumer Goods
+CUST01480,SME,Healthcare
+CUST01481,SME,Automotive
+CUST01482,Distributor,Manufacturing
+CUST01483,Distributor,Pharma
+CUST01484,SME,Automotive
+CUST01485,SME,Manufacturing
+CUST01486,Enterprise,Electronics
+CUST01487,Enterprise,Pharma
+CUST01488,Retail,Electronics
+CUST01489,SME,Pharma
+CUST01490,Distributor,Electronics
+CUST01491,Retail,Consumer Goods
+CUST01492,Enterprise,Automotive
+CUST01493,Retail,FMCG
+CUST01494,SME,Pharma
+CUST01495,Retail,Consumer Goods
+CUST01496,Retail,Pharma
+CUST01497,Distributor,Electronics
+CUST01498,Distributor,Manufacturing
+CUST01499,SME,Pharma
+CUST01500,Enterprise,Consumer Goods
+CUST01501,Retail,Electronics
+CUST01502,Enterprise,Retail
+CUST01503,SME,Electronics
+CUST01504,Enterprise,Automotive
+CUST01505,Retail,FMCG
+CUST01506,Enterprise,Retail
+CUST01507,Retail,Automotive
+CUST01508,Distributor,Automotive
+CUST01509,Enterprise,Automotive
+CUST01510,Enterprise,Manufacturing
+CUST01511,SME,Automotive
+CUST01512,Distributor,Manufacturing
+CUST01513,SME,Automotive
+CUST01514,SME,Healthcare
+CUST01515,Enterprise,Consumer Goods
+CUST01516,Distributor,Retail
+CUST01517,SME,Healthcare
+CUST01518,Distributor,Automotive
+CUST01519,Distributor,Retail
+CUST01520,SME,Retail
+CUST01521,Distributor,Pharma
+CUST01522,Enterprise,FMCG
+CUST01523,Distributor,Healthcare
+CUST01524,Retail,FMCG
+CUST01525,Distributor,Retail
+CUST01526,Enterprise,Manufacturing
+CUST01527,Enterprise,Retail
+CUST01528,SME,FMCG
+CUST01529,SME,Healthcare
+CUST01530,SME,Automotive
+CUST01531,SME,Pharma
+CUST01532,Enterprise,Pharma
+CUST01533,SME,Pharma
+CUST01534,Distributor,Automotive
+CUST01535,SME,Pharma
+CUST01536,Enterprise,Healthcare
+CUST01537,SME,Automotive
+CUST01538,Enterprise,Pharma
+CUST01539,Distributor,Automotive
+CUST01540,Enterprise,FMCG
+CUST01541,Retail,Consumer Goods
+CUST01542,Distributor,Consumer Goods
+CUST01543,Distributor,Healthcare
+CUST01544,Retail,Electronics
+CUST01545,Distributor,Manufacturing
+CUST01546,Distributor,Pharma
+CUST01547,Retail,Manufacturing
+CUST01548,Retail,Automotive
+CUST01549,Retail,Manufacturing
+CUST01550,SME,Healthcare
+CUST01551,Retail,Healthcare
+CUST01552,SME,Retail
+CUST01553,SME,Consumer Goods
+CUST01554,Enterprise,Pharma
+CUST01555,Enterprise,Retail
+CUST01556,SME,Manufacturing
+CUST01557,Enterprise,Electronics
+CUST01558,Retail,Retail
+CUST01559,SME,Retail
+CUST01560,Distributor,Healthcare
+CUST01561,Enterprise,Electronics
+CUST01562,SME,Automotive
+CUST01563,Retail,Manufacturing
+CUST01564,Retail,Retail
+CUST01565,Enterprise,Electronics
+CUST01566,Distributor,Consumer Goods
+CUST01567,Distributor,Pharma
+CUST01568,SME,Electronics
+CUST01569,SME,Consumer Goods
+CUST01570,Distributor,Manufacturing
+CUST01571,Retail,Electronics
+CUST01572,SME,Consumer Goods
+CUST01573,Distributor,Electronics
+CUST01574,SME,Electronics
+CUST01575,SME,Pharma
+CUST01576,SME,Consumer Goods
+CUST01577,Distributor,Consumer Goods
+CUST01578,Retail,Retail
+CUST01579,Retail,Manufacturing
+CUST01580,SME,Pharma
+CUST01581,SME,Electronics
+CUST01582,SME,Electronics
+CUST01583,Retail,Retail
+CUST01584,SME,Manufacturing
+CUST01585,Enterprise,Healthcare
+CUST01586,Distributor,Pharma
+CUST01587,Enterprise,Retail
+CUST01588,Distributor,Manufacturing
+CUST01589,Enterprise,Pharma
+CUST01590,Retail,Electronics
+CUST01591,Enterprise,Manufacturing
+CUST01592,Distributor,Manufacturing
+CUST01593,SME,Automotive
+CUST01594,Enterprise,Manufacturing
+CUST01595,SME,Healthcare
+CUST01596,Enterprise,Manufacturing
+CUST01597,Enterprise,Healthcare
+CUST01598,Distributor,Electronics
+CUST01599,SME,Healthcare
+CUST01600,Distributor,Pharma
+CUST01601,Retail,Electronics
+CUST01602,Retail,Electronics
+CUST01603,Enterprise,Healthcare
+CUST01604,SME,Consumer Goods
+CUST01605,Distributor,Retail
+CUST01606,Distributor,FMCG
+CUST01607,SME,Consumer Goods
+CUST01608,SME,Manufacturing
+CUST01609,SME,Automotive
+CUST01610,Distributor,FMCG
+CUST01611,SME,Manufacturing
+CUST01612,SME,Consumer Goods
+CUST01613,Distributor,Consumer Goods
+CUST01614,Enterprise,Manufacturing
+CUST01615,Enterprise,Electronics
+CUST01616,Retail,Manufacturing
+CUST01617,Distributor,Automotive
+CUST01618,SME,Consumer Goods
+CUST01619,SME,Manufacturing
+CUST01620,SME,Healthcare
+CUST01621,SME,FMCG
+CUST01622,Retail,Healthcare
+CUST01623,SME,Automotive
+CUST01624,SME,Manufacturing
+CUST01625,SME,Pharma
+CUST01626,Retail,Automotive
+CUST01627,SME,Electronics
+CUST01628,Distributor,Healthcare
+CUST01629,Enterprise,Healthcare
+CUST01630,Distributor,Retail
+CUST01631,Distributor,Manufacturing
+CUST01632,SME,Electronics
+CUST01633,SME,Pharma
+CUST01634,SME,Healthcare
+CUST01635,SME,Healthcare
+CUST01636,SME,Electronics
+CUST01637,Enterprise,Automotive
+CUST01638,SME,Automotive
+CUST01639,Distributor,Manufacturing
+CUST01640,SME,Consumer Goods
+CUST01641,Distributor,Retail
+CUST01642,SME,Healthcare
+CUST01643,Distributor,Consumer Goods
+CUST01644,Retail,Consumer Goods
+CUST01645,Enterprise,Retail
+CUST01646,Retail,Consumer Goods
+CUST01647,Enterprise,Consumer Goods
+CUST01648,SME,Automotive
+CUST01649,Distributor,Automotive
+CUST01650,Enterprise,FMCG
+CUST01651,SME,Pharma
+CUST01652,Retail,Manufacturing
+CUST01653,Distributor,Consumer Goods
+CUST01654,Retail,FMCG
+CUST01655,SME,Pharma
+CUST01656,Retail,FMCG
+CUST01657,SME,FMCG
+CUST01658,Retail,Manufacturing
+CUST01659,Distributor,Manufacturing
+CUST01660,Retail,Electronics
+CUST01661,Distributor,Retail
+CUST01662,Enterprise,Retail
+CUST01663,Retail,Electronics
+CUST01664,Distributor,Electronics
+CUST01665,Enterprise,Automotive
+CUST01666,Distributor,Pharma
+CUST01667,SME,FMCG
+CUST01668,Retail,Consumer Goods
+CUST01669,Distributor,Electronics
+CUST01670,Retail,Healthcare
+CUST01671,Enterprise,Retail
+CUST01672,Retail,Electronics
+CUST01673,SME,Healthcare
+CUST01674,Distributor,Healthcare
+CUST01675,SME,Healthcare
+CUST01676,SME,Automotive
+CUST01677,Retail,Automotive
+CUST01678,SME,Consumer Goods
+CUST01679,Retail,Consumer Goods
+CUST01680,Retail,Healthcare
+CUST01681,Distributor,Pharma
+CUST01682,Retail,Automotive
+CUST01683,SME,FMCG
+CUST01684,Enterprise,Healthcare
+CUST01685,Enterprise,FMCG
+CUST01686,Enterprise,FMCG
+CUST01687,Enterprise,Healthcare
+CUST01688,Retail,Retail
+CUST01689,Retail,Pharma
+CUST01690,SME,Healthcare
+CUST01691,Distributor,Consumer Goods
+CUST01692,Distributor,Healthcare
+CUST01693,Distributor,Automotive
+CUST01694,Retail,Healthcare
+CUST01695,SME,Retail
+CUST01696,SME,Automotive
+CUST01697,Enterprise,Consumer Goods
+CUST01698,SME,Manufacturing
+CUST01699,Distributor,Manufacturing
+CUST01700,Distributor,FMCG
+CUST01701,SME,Pharma
+CUST01702,SME,FMCG
+CUST01703,Distributor,Retail
+CUST01704,Enterprise,Electronics
+CUST01705,SME,Consumer Goods
+CUST01706,Distributor,Pharma
+CUST01707,SME,Consumer Goods
+CUST01708,Enterprise,Manufacturing
+CUST01709,SME,FMCG
+CUST01710,Distributor,Consumer Goods
+CUST01711,Retail,Manufacturing
+CUST01712,SME,Retail
+CUST01713,SME,Retail
+CUST01714,SME,Electronics
+CUST01715,Retail,Consumer Goods
+CUST01716,Distributor,Electronics
+CUST01717,Enterprise,Automotive
+CUST01718,Distributor,Pharma
+CUST01719,Enterprise,Consumer Goods
+CUST01720,SME,Retail
+CUST01721,Enterprise,FMCG
+CUST01722,SME,Manufacturing
+CUST01723,SME,Healthcare
+CUST01724,SME,Electronics
+CUST01725,Enterprise,Healthcare
+CUST01726,Retail,Consumer Goods
+CUST01727,Enterprise,FMCG
+CUST01728,Distributor,Electronics
+CUST01729,Distributor,Healthcare
+CUST01730,SME,Pharma
+CUST01731,SME,FMCG
+CUST01732,SME,Manufacturing
+CUST01733,Enterprise,Pharma
+CUST01734,SME,FMCG
+CUST01735,Distributor,Automotive
+CUST01736,Retail,Electronics
+CUST01737,Enterprise,Retail
+CUST01738,Distributor,Manufacturing
+CUST01739,SME,Consumer Goods
+CUST01740,Distributor,Pharma
+CUST01741,Retail,Pharma
+CUST01742,Retail,Healthcare
+CUST01743,Enterprise,Electronics
+CUST01744,Enterprise,Consumer Goods
+CUST01745,Distributor,Retail
+CUST01746,SME,FMCG
+CUST01747,Distributor,Retail
+CUST01748,SME,Electronics
+CUST01749,Enterprise,Electronics
+CUST01750,Enterprise,Automotive
+CUST01751,SME,Automotive
+CUST01752,Distributor,Retail
+CUST01753,SME,FMCG
+CUST01754,SME,Retail
+CUST01755,SME,Electronics
+CUST01756,Enterprise,Electronics
+CUST01757,SME,Healthcare
+CUST01758,Enterprise,Automotive
+CUST01759,Distributor,Consumer Goods
+CUST01760,SME,Consumer Goods
+CUST01761,SME,Consumer Goods
+CUST01762,SME,Healthcare
+CUST01763,SME,Manufacturing
+CUST01764,Distributor,Consumer Goods
+CUST01765,SME,Electronics
+CUST01766,Enterprise,Healthcare
+CUST01767,Retail,Retail
+CUST01768,Enterprise,Automotive
+CUST01769,Enterprise,Automotive
+CUST01770,Distributor,FMCG
+CUST01771,Distributor,Retail
+CUST01772,Distributor,FMCG
+CUST01773,SME,Healthcare
+CUST01774,SME,Pharma
+CUST01775,Enterprise,Consumer Goods
+CUST01776,SME,Manufacturing
+CUST01777,Distributor,Retail
+CUST01778,SME,Retail
+CUST01779,Distributor,Retail
+CUST01780,Retail,FMCG
+CUST01781,Enterprise,Healthcare
+CUST01782,SME,Retail
+CUST01783,Retail,Pharma
+CUST01784,SME,Retail
+CUST01785,Distributor,Automotive
+CUST01786,SME,Consumer Goods
+CUST01787,Enterprise,Manufacturing
+CUST01788,Retail,Consumer Goods
+CUST01789,Distributor,Automotive
+CUST01790,Enterprise,Automotive
+CUST01791,Distributor,Manufacturing
+CUST01792,SME,Pharma
+CUST01793,Distributor,Healthcare
+CUST01794,Retail,Automotive
+CUST01795,SME,Healthcare
+CUST01796,SME,Automotive
+CUST01797,Distributor,Electronics
+CUST01798,SME,Manufacturing
+CUST01799,Retail,Automotive
+CUST01800,Enterprise,Electronics

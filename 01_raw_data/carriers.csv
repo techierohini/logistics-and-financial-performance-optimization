@@ -1,0 +1,13 @@
+Carrier_ID,Carrier_Name,Carrier_Type,Base_Rate_per_KM_INR,Fuel_Surcharge_Pct,Reliability_Score
+CAR001,SwiftTrans,3PL,30.34,10.72,0.944
+CAR002,BlueLine Freight,Express,32.22,6.59,0.97
+CAR003,Apex Cargo,Express,19.11,11.44,0.963
+CAR004,MetroHaul,Express,32.58,5.45,0.916
+CAR005,PrimeRoute,Express,22.09,16.82,0.967
+CAR006,NorthStar,Dedicated Fleet,19.56,8.36,0.834
+CAR007,RapidMove,3PL,40.77,13.61,0.851
+CAR008,Vertex Logistics,3PL,41.18,9.05,0.827
+CAR009,TransAxis,Dedicated Fleet,37.4,11.76,0.872
+CAR010,UrbanFleet,3PL,25.31,12.11,0.882
+CAR011,CargoSphere,Dedicated Fleet,20.34,7.4,0.863
+CAR012,RoadLink,Express,34.42,17.6,0.953
